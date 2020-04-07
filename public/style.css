@@ -1,0 +1,45 @@
+.topic-container {
+    margin-bottom: 30px;
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+}
+
+.flowchart-link {
+    font-size: 1.8rem;
+    font-weight: bolder;
+    color: #2d4d55;
+}
+
+.schedule-link {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #2d4d55;
+}
+
+.closing {
+    margin-top: 60px;
+}
+
+.schedule-content {
+    padding-left: 8%;
+    padding-right: 8%;
+    margin-bottom: 60px;
+}
+
+.geometry-svg-container {
+    margin-top: 111px;
+    margin-bottom: 2rem;
+    display: flex;
+    justify-content: center;
+}
+
+.footer {
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+}
+
+.footer-copyright {
+    margin-right: auto;
+    margin-left: auto;
+    color: rgb(226, 226, 193);
+}
